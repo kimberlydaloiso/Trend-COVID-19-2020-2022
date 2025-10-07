@@ -16,3 +16,12 @@ Progetto finale per il corso di Data Analyst &amp; AI con Epicode.
 dicembre 2022)<br>
 ● Open data ISTAT per popolazione regionale<br>
 ● Dati vaccinazioni Ministero Salute (2020-2022)<br>
+
+## Tecnologie utilizzate:
+
+● Google Sheets/Excel
+● Python (Pandas, Matplotlib, Seaborn)
+● Google Slides
+
+
+
