@@ -19,9 +19,9 @@ dicembre 2022)<br>
 
 ## Tecnologie utilizzate:
 
-● Google Sheets/Excel
-● Python (Pandas, Matplotlib, Seaborn)
-● Google Slides
+● Google Sheets/Excel<br>
+● Python (Pandas, Matplotlib, Seaborn)<br>
+● Google Slides<br>
 
 
 
