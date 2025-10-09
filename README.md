@@ -23,7 +23,11 @@ dicembre 2022)<br>
 ● Python (Pandas, Matplotlib, Seaborn)<br>
 ● Google Slides<br>
 
-## Grafici principali
+## Grafici Python
+
+![Andamento casi positivi per Regione](andamento/casi/positivi/per/regione.png)<br>
+
+![Andamento Vaccinazioni per Regione](andamento/vaccinazioni/per/regione.png)
 
 
 
