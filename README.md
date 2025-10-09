@@ -25,7 +25,7 @@ dicembre 2022)<br>
 
 ## Grafici Python
 
-![Andamento casi positivi per Regione](main/andamentocasipositiviperregione.png)<br>
+![Andamento casi positivi per Regione](main/andamento%20casi%20positivi%20per%20regione.png)<br>
 
 ![Andamento Vaccinazioni per Regione](andamento/vaccinazioni/per/regione.png)
 
